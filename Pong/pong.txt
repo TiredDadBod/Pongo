@@ -1,0 +1,4 @@
+Game #1 - Pong
+This is the first of the 20 game challenge.  This first game is pong and will be based off the 1972 version.
+It will contain two walls, a divider, two player paddles and a 'ball'.  Scores will be annotated in the top
+corners and the players will have control of their paddles.
